@@ -1,0 +1,8 @@
+C:\Users\jpscott\Desktop\FutureValuePrograms\FutureValueApps\FutureValueConsole\bin\Debug\FutureValueConsole.exe.config
+C:\Users\jpscott\Desktop\FutureValuePrograms\FutureValueApps\FutureValueConsole\bin\Debug\FutureValueConsole.exe
+C:\Users\jpscott\Desktop\FutureValuePrograms\FutureValueApps\FutureValueConsole\bin\Debug\FutureValueConsole.pdb
+C:\Users\jpscott\Desktop\FutureValuePrograms\FutureValueApps\FutureValueConsole\obj\Debug\FutureValueConsole.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\FutureValuePrograms\FutureValueApps\FutureValueConsole\obj\Debug\FutureValueConsole.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\FutureValuePrograms\FutureValueApps\FutureValueConsole\obj\Debug\FutureValueConsole.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\FutureValuePrograms\FutureValueApps\FutureValueConsole\obj\Debug\FutureValueConsole.exe
+C:\Users\jpscott\Desktop\FutureValuePrograms\FutureValueApps\FutureValueConsole\obj\Debug\FutureValueConsole.pdb

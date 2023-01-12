@@ -1,0 +1,11 @@
+C:\Users\jpscott\Desktop\FutureValuePrograms\FutureValueApps\FutureValueGUI3\bin\Debug\FutureValueGUI1.exe.config
+C:\Users\jpscott\Desktop\FutureValuePrograms\FutureValueApps\FutureValueGUI3\bin\Debug\FutureValueGUI1.exe
+C:\Users\jpscott\Desktop\FutureValuePrograms\FutureValueApps\FutureValueGUI3\bin\Debug\FutureValueGUI1.pdb
+C:\Users\jpscott\Desktop\FutureValuePrograms\FutureValueApps\FutureValueGUI3\obj\Debug\FutureValueGUI3.csproj.AssemblyReference.cache
+C:\Users\jpscott\Desktop\FutureValuePrograms\FutureValueApps\FutureValueGUI3\obj\Debug\FutureValueGUI3.csproj.SuggestedBindingRedirects.cache
+C:\Users\jpscott\Desktop\FutureValuePrograms\FutureValueApps\FutureValueGUI3\obj\Debug\FutureValueGUI1.frmFutureValue03.resources
+C:\Users\jpscott\Desktop\FutureValuePrograms\FutureValueApps\FutureValueGUI3\obj\Debug\FutureValueGUI1.Properties.Resources.resources
+C:\Users\jpscott\Desktop\FutureValuePrograms\FutureValueApps\FutureValueGUI3\obj\Debug\FutureValueGUI3.csproj.GenerateResource.cache
+C:\Users\jpscott\Desktop\FutureValuePrograms\FutureValueApps\FutureValueGUI3\obj\Debug\FutureValueGUI3.csproj.CoreCompileInputs.cache
+C:\Users\jpscott\Desktop\FutureValuePrograms\FutureValueApps\FutureValueGUI3\obj\Debug\FutureValueGUI1.exe
+C:\Users\jpscott\Desktop\FutureValuePrograms\FutureValueApps\FutureValueGUI3\obj\Debug\FutureValueGUI1.pdb
